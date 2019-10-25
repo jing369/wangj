@@ -1,0 +1,21 @@
+QueryByCondition_interface:
+  description: 分页查询图文信息
+  method: GET
+  base_url: http://op-test1.startimes.me/ott-information/list?lang=zh_CN&pageNumber=1&pageSize=20&sortName=modify_time&sortOrder=desc
+ # url: ott-information/list
+  Request Headers:
+    User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+    Content-Type: application/json
+    Authorization:
+
+#  Query String parameters:
+#    lang: zh_CN
+#    pageNumber: 1
+#    pageSize: 20
+#    sortName: modify_time
+#    sortOrder: desc
+#    countryId: 2
+
+
+
+
